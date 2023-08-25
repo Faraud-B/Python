@@ -1,6 +1,5 @@
 # Updater
 Software launch from my other projects in order to update them.
-Easy to launch from my other projects with
 
 What it does:
 - Downloads the .zip of the new version on google drive
