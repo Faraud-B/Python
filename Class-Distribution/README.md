@@ -1,5 +1,5 @@
 # Class Distribution
-Software that automates the distribution of classes in a school
+Software that automates the distribution of classes in a school. <br>
 Can be used to distribute the classes among teachers
 
 What it does:
