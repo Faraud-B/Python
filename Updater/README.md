@@ -8,4 +8,5 @@ What it does:
 - Uses the list of changes and a .ignore file to update the software
 - Re-opens updated software while closing
 <br>
+
 ![Updater](sources/Updater.gif)
