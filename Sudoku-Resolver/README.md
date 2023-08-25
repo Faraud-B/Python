@@ -1,6 +1,6 @@
-# Unity
-Projects created with Unity
+# Sudoku Resolver
+Software used to solve Sudoku. <br>
+This was my first attempt ever to create a GUI in Python with Tkinter. <br>
+Not perfect because I coded the rules by hand rather than creating an algorithm to brute force it. <br>
 
-* ## ![AR Map](AR-Map) <br>
-    * AR Map of a shopping mall <br>
-    * using: **Unity, C#, Blender, Vuforia, Android** <br>
+![Sudoku-Resolver](sources/Sudoku-Resolver.gif)
