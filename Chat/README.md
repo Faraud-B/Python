@@ -1,6 +1,6 @@
 # Chat
 Communication software. Allows you to create sessions with passwords and communicate regardless of the number of participants. <br>
-This software uses a lot of my previous work gathered under a toolkit. This makes it easier to create frameless applications, create scroll areas, threads, animations or even update the application. <br>
+This software uses a lot of my previous work gathered under a toolkit. This makes it easier to create frameless applications, create scroll areas, threads, animations, handle logs or xml files or even update the application. <br>
 
 What it does:
 * You can connect as host (which will create a server) and add a password if you want
