@@ -1,16 +1,22 @@
 # Chat
-Communication software. Allows you to create sessions with passwords and communicate regardless of the number of participants. <br>
-This software uses a lot of my previous work gathered under a toolkit. This makes it easier to create frameless applications, create scroll areas, threads, animations, handle logs or xml files or even update the application. <br>
+Communication software that uses a lot of my previous work gathered under a toolkit. This makes it easier to create frameless applications, create scroll areas, threads, animations, handle logs or xml files or even update the application. <br>
 
-What it does:
-* You can connect as host (which will create a server) and add a password if you want
-* You can connect as a client either
-     * with the IP adress of the server
-     * using the list of previously joined servers with an indicator to see if the server is online or not
-* Once your connected, you can send messages or share data (not matter their size)
-* You can change your name at any time
-* The host can evict clients 
-
+You can create sessions with passwords and communicate regardless of the number of participants. Work both for local or global network. You can connect via IP address or by using a menu that shows the latest servers joined.<br>
 <br>
 
-![Chat](sources/Chat.gif)
+![Chat](sources/Chat_1.gif)
+
+<br>
+You can also share files without limitations on size.<br>
+<br>
+
+![Chat](sources/Chat_2.gif)
+
+<br>
+You can change your name during a session.<br>
+<br>
+
+![Chat](sources/Chat_3.gif)
+
+<br>
+The host has access to many more parameters, such as setting a password, automatically accepting or rejecting newcomers, re-sharing files, banning or expelling participants.
