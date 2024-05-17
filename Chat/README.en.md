@@ -4,7 +4,7 @@
 # Chat
 Communications software. Allows you to create sessions to communicate and share documents with a large number of participants. <br>
 
-What is possible:
+What can be done:
 * You can create a session on the local network but also remotely, using the IP address to connect
 * Clients have access to the list of the last 5 servers they joined, with an indicator to know if they are still active or not, so they can simply return to them
 * Once in the session it is possible to send messages or files at will
