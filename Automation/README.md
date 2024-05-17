@@ -1,31 +1,35 @@
-# Automation
-Software to automate tasks, configurable in a "no code" way. Created to make it easy to add new features. <br>
-I created this software to have an easy way to create automations without having to create a new program each time. <br>
+[![fr](https://img.shields.io/badge/lang-fr-red.svg)](README.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.en.md)
 
-What it does:
-* You can place as much nodes as yout want, they will run one after the other
-* Nodes are:
-   * Time: wait for a certain amount of time (in seconds) or a specific hour
-   * Keyboard: simulate a key or a shortcut in tap, press or release mode
-   * Mouse: simulate a mouse move, click or scroll input
-   * Checkpoint: wait for a specific input from the user to continue
-* Nodes can be added, inserted, removed and even dragged and dropped to change their order
-* For each node, you can enable whether or not a message will be written to the log file each time it is passed.
-* The succession of nodes can be stored in a file to be loaded later
-* In case of emergency, you can press a key three times to trigger the end of the loop
-* You can update this software easily using my other software called Updater
+# Automation
+Logiciel d'automatisation, configurable façon 'no code'. Créé de façon à ce qu'il soit facile d'y ajouter des fonctionnalités. <br>
+J'ai développé ce logiciel afin d'avoir un moyen facile de créer des automatisations sans avoir à coder un nouveau programme à chaque fois. <br>
+
+Ce qu'il fait:
+* Vous pouvez placer autant de nodes que vous le souhaitez, elle seront exécutées les unes après les autres
+* Les nodes sont:
+   * Temps: attendre un certain moment (en secondes) ou une heure spécifique
+   * Clavier: simuler une touche ou un raccourci en l'appuyant, le pressant ou le relâchant
+   * Souris: simuler un déplacement, un clic ou un scroll avec la souris
+   * Checkpoint: attendre un input spécifique de la part de l'utilisateur avant de passer à la suite
+* Les nodes peuvent être ajoutées, insérées, supprimées ou encore déplacées afin de changer leur ordre
+* Pour chaque node, vous pouvez choisir d'activer si oui ou non un message sera affichées dans les logs à chaque fois qu'elle est exécutée
+* Les nodes peuvent être sauvegardées dans un fichier et chargées de nouveau quand on le souhaite
+* En cas d'urgence, on peut presser trois fois une touche (modifiable) afin d'arrêter la boucle
+* Ce logiciel peut être mis à jour en utilisant mon logiciel appelé Updater
 <br>
 
 ![LowCode](sources/Automation_full.gif)
 
 <br>
-There is a 'record' mode that allows to create complex node systems easily
+Il existe un mode 'enregistrer' qui permet de créer des systèmes de nodes complexes facilement
 <br><br>
 
 ![LowCode](sources/Automation_record.gif)
 
 <br>
-Possibility to translate the software in one click
+Il est possible de traduire tous les textes du logiciel en un seul clic
 <br><br>
 
 ![LowCode](sources/Automation_lang.gif)
+

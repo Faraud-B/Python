@@ -3,28 +3,28 @@
 
 # Python
 
-Projects created with Python
+Projets créés en Python
 
 * ## [Automation](Automation)
-    * **Software to automate tasks using a node system** <br>
-    * *using: Python, PyQt, XML* <br>
+    * **Logiciel d'automatisation utilisant un système de nodes** <br>
+    * *utilise: Python, PyQt, XML* <br>
     
 * ## [Chat](Chat)
-    * **Communication software** <br>
-    * *using: Python, PyQt, socket, xml* <br>
+    * **Logiciel de communication** <br>
+    * *utilise: Python, PyQt, socket, xml* <br>
 
 * ## [Updater](Updater)
-    * **Software launched from my other projects in order to update them** <br>
-    * *using: Python, PyQt* <br>
+    * **Logiciel lancé depuis mes autres logiciels afin de les mettre à jour** <br>
+    * *utilise: Python, PyQt* <br>
 
 * ## [Class Distribution](Class-Distribution)
-    * **Software that automates the distribution of classes in a school** <br>
-    * *using: Python, PyQt, XML* <br>
+    * **Logiciel qui automatise la répartition des classes dans une école** <br>
+    * *utilise: Python, PyQt, XML* <br>
 
 * ## [Screen Recorder](Screen-Recorder)
-    * **Screenshot software (png and gif)** <br>
-    * *using: Python, PyQt, OpenCV* <br>
+    * **Logiciel de capture d'écran (png and gif)** <br>
+    * *utilise: Python, PyQt, OpenCV* <br>
     
 * ## [Sudoku Resolver](Sudoku-Resolver)
-    * **Software used to solve Sudoku** <br>
-    * *using: Python, PyQt, Tkinter* <br>
+    * **Logiciel de résolution de sudoku** <br>
+    * *utilise: Python, PyQt, Tkinter* <br>
