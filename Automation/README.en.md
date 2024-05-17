@@ -6,7 +6,7 @@ Automation software
 Automation software, configurable in a "no-code" way. Created in a way that makes it easy to add features. <br>
 I developed this software in order to have an easy way to create automations without having to code a new program each time. <br>
 
-What he does:
+What can be done:
 * You can place as many nodes as you want, they will be executed one after the other
 * The nodes are:
     * Time: wait for a certain moment (in seconds) or a specific time
