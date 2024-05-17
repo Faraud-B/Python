@@ -11,11 +11,11 @@ Projects created with Python
     
 * ## [Chat](Chat)
     * **Communication software** <br>
-    * *using: Python, PyQt, socket, xml* <br>
+    * *using: Python, PyQt, socket, XML* <br>
 
 * ## [Updater](Updater)
     * **Software launched from my other projects in order to update them** <br>
-    * *using: Python, PyQt* <br>
+    * *using: Python, PyQt, XML* <br>
 
 * ## [Class Distribution](Class-Distribution)
     * **Software that automates the distribution of classes in a school** <br>
