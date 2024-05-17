@@ -9,7 +9,7 @@ Projects created with Python
     * **Software that automates the distribution of classes in a school** <br>
     * *using: Python, PyQt, xml* <br>
 
-* ## [LowCode](Low-Code)
+* ## [Automation](Automation)
     * **Software to automate tasks** <br>
     * *using: Python, PyQt, openCV* <br>
 
