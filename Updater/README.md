@@ -1,11 +1,14 @@
-# Updater
-Software launch from my other projects in order to update them.
+[![fr](https://img.shields.io/badge/lang-fr-red.svg)](README.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.en.md)
 
-What it does:
-- Downloads the .zip of the new version on google drive
-- Displays the patch note on screen
-- Uses the list of changes and a .ignore file to update the software
-- Re-opens updated software while closing
+# Updater
+Lancement depuis mes autres projets afin de les mettre à jour.
+
+Ce qu'il est possible de faire:
+- Télécharge le .zip de la nouvelle version sur google drive
+- Affiche la liste des changements de chaque version
+- Utilise la liste des modifications et un fichier .ignore pour mettre à jour le logiciel en faisant seulement les changements nécessaires
+- Rouvre le logiciel mis à jour, avant de se fermer
 <br>
 
 ![Updater](sources/Updater.gif)
