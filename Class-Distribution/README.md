@@ -1,18 +1,20 @@
-# Class Distribution
-Software that automates the distribution of classes in a school. <br>
-Can be used to distribute the classes among teachers
+[![fr](https://img.shields.io/badge/lang-fr-red.svg)](README.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.en.md)
 
-What it does:
-* You can set up all the classes you want with the information: name | number of classes | number of hours
-* You can set up all the teachers you want with the information: name | number of hours | overtime max
-* You can then select choices for each teacher, with the following color indicators:
-     * green: the teachers wants at least 1, 2, 3 ... of this class
-     * red: the teacher does't want this class
-     * yellow: the teacher wants exactly 1, 2, 3 ... of this class
-* You can select the number of different classes max par teacher and the the number of same class max per teacher
-* You'll have an error box while your configuration is not valid to help you make changes
-* Once everything is set up, you can launch the search and see the results if there are any, else, try to change the choices
-* You can right click on a result to copy it as text or image
+# Class Distribution
+Logiciel qui automatise la répartition des classes dans une école, afin de les distribuer entre les différents enseignants. <br>
+
+Ce qu'il est possible de faire:
+* Vous pouvez configurer toutes les classes que vous souhaitez avec les informations : nom | nombre de classes | nombre d'heures
+* Vous pouvez configurer tous les professeurs que vous souhaitez avec les informations : nom | nombre d'heures | heures supplémentaires maximum
+* Vous pouvez ensuite sélectionner des choix pour chaque enseignant, avec les indicateurs de couleurs suivants:
+      * vert : le professeur veut au moins 1, 2, 3... de cette classe
+      * rouge : le professeur ne veut pas de ce cours
+      * jaune : le professeur veut exactement 1, 2, 3... de cette classe
+* Vous pouvez sélectionner le nombre de classes différentes maximums par enseignant et le nombre de mêmes classes maximum par enseignant
+* Vous aurez une boîte d'erreur lorsque votre configuration n'est pas valide pour vous aider à apporter des modifications
+* Une fois que tout est configuré, vous pouvez lancer la recherche et voir les résultats s'il y en a, sinon essayez de modifier les choix
+* Vous pouvez faire un clic droit sur un résultat pour le copier sous forme de texte ou d'image
 <br>
 
-![Class Distribution](sources/Class-Distribution.gif)
+![Distribution de classes](sources/Class-Distribution.gif)
