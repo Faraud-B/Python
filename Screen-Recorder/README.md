@@ -1,12 +1,14 @@
-# Screen Recorder
-I tried to recreate the Windows screenshot tool, and then I added a function to capture gifs. <br>
-It was my second attemp to make a GUI, but this time with PyQt.
+[![fr](https://img.shields.io/badge/lang-fr-red.svg)](README.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.en.md)
 
-What it does:
-- let the user choose between capturing png or gif
-- Freeze the screen until the user select the area he wants to capture
-- In case of png: capture the area on the screen, display the image and copy it to the clipboard
-- In case of gif: create a marking area on the screen, let the user start and finish the capture, and then display the gif
+# Screen Recorder
+J'ai essayé de recréer l'outil de capture d'écran Windows, puis j'ai ajouté une fonction pour capturer des gifs. <br>
+
+Ce qu'il est possible de faire:
+* Vous pouvez choisir entre capturer un png ou un gif
+* Geler l'écran jusqu'à ce que l'utilisateur sélectionne la zone qu'il souhaite capturer
+* En cas de png : la zone sur l'écran est capturée, affichée et copiée dans le presse-papiers
+- En cas de gif : une zone de marquage est affichée sur l'écran, l'utilisateur peut alors lancer la capture et le terminer lorsqu'il le souhaite
 <br>
 
 ![Screen Recorder](sources/Screen-Recorder.gif)
