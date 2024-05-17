@@ -1,24 +1,35 @@
-# LowCode
-Software to automate tasks, configurable in a "no code" way. Created to make it easy to add new features. <br>
-I created this software to have an easy way to create automations without having to create a new program each time. <br>
+[![fr](https://img.shields.io/badge/lang-fr-red.svg)](README.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.en.md)
 
-What it does:
-* You can place as much nodes as yout want, they will run one after the other
-* Nodes are:
-   * Wait: wait for a certain amount of time (in seconds) or a specific hour
-   * Keyboard: simulate a key tap/press/release (or multiple keys)
-   * Mouse: simulate a mouse move/click/scoll
-   * Clipboard: copy something to the clipboard
-   * Url: open a web page
-   * Clicker: use image recognition to locate an element on the page, and click on it
-   * If-Input: wait for a specific input from the user to continue running the nodes, can wait:
-        * only the first time this node is encounter
-        * each time the node is encounter
-        * only the first time, until the input is detected again, and so on
-* Nodes can be dragged and dropped easier use
-* You can activate the writing of the node in the logs (if you want to store it later)
-* The succession of nodes can be stored in a file to be loaded later
-* In case of emergency, you can press a key three times (fast) to trigger the end of the loop (escape by default)
+# Automation
+Automation software
+Automation software, configurable in a "no-code" way. Created in a way that makes it easy to add features. <br>
+I developed this software in order to have an easy way to create automations without having to code a new program each time. <br>
+
+What he does:
+* You can place as many nodes as you want, they will be executed one after the other
+* The nodes are:
+    * Time: wait for a certain moment (in seconds) or a specific time
+    * Keyboard: simulate a key or shortcut by tapping, pressing or releasing it
+    * Mouse: simulate moving, clicking or scrolling with the mouse
+    * Checkpoint: wait for specific input from the user before moving on
+* Nodes can be added, inserted, deleted or even moved to change their order
+* For each node, you can choose to enable whether or not a message will be displayed in the logs each time it is executed
+* Nodes can be saved to a file and loaded again whenever desired
+* In case of emergency, you can press a key (modifiable) three times to stop the loop
+* This software can be updated using another software of mine called Updater
 <br>
 
-![LowCode](sources/Low-Code.gif)
+![LowCode](sources/Automation_full.gif)
+
+<br>
+There is a "record" mode which allows you to create complex node systems easily
+<br><br>
+
+![LowCode](sources/Automation_record.gif)
+
+<br>
+It is possible to translate all texts in the software with just one click
+<br><br>
+
+![LowCode](sources/Automation_lang.gif)
