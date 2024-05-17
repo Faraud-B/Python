@@ -4,7 +4,7 @@
 # Chat
 Logiciel de communication. Permet de créer des sessions pour communiquer et partager des documents avec un grand nombre de participants. <br>
 
-Ce qu'il fait:
+ce qu'il est possible de faire:
 * Vous pouvez créer une session sur le réseau local mais aussi à distance, en utilisant l'adresse IP pour se connecter
 * Les clients ont accès à la liste des 5 derniers serveurs qu'ils ont rejoints, avec un indicateur permettant de savoir s'ils sont toujours actifs ou non, afin d'y revenir simplement
 * Une fois dans la session il est possible d'envoyer des messages ou des fichiers à volonté
