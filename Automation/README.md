@@ -5,7 +5,7 @@
 Logiciel d'automatisation, configurable façon "no-code". Créé de façon à ce qu'il soit facile d'y ajouter des fonctionnalités. <br>
 J'ai développé ce logiciel afin d'avoir un moyen facile de créer des automatisations sans avoir à coder un nouveau programme à chaque fois. <br>
 
-Ce qu'il fait:
+Ce qu'il est possible de faire:
 * Vous pouvez placer autant de nodes que vous le souhaitez, elles seront exécutées les unes après les autres
 * Les nodes sont:
    * Temps: attendre un certain moment (en seconde) ou une heure spécifique
