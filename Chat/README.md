@@ -27,6 +27,3 @@ Vous pouvez changer votre nom pendant une session. <br>
 <br>
 
 ![Chat](sources/Chat_3.gif)
-
-<br>
-L'hôte peut avoir accès à plus de paramètres, ce qui lui permet de mettre ou change de mot de passe, d'accepter ou de rejeter de nouveaux participants, de repartager des fichiers ou encore d'exclure des participants.
